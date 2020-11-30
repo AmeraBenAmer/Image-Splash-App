@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyImagesApp</string>
+    <string name="retry">Retry</string>
+    <string name="text_error">Result could not br loaded</string>
+    <string name="text_empty">No Results found for this query</string>
+    <string name="error_text">Results could be loaded!</string>
+    <string name="search">Search</string>
+    <string name="text_description">This is the description</string>
+</resources>
